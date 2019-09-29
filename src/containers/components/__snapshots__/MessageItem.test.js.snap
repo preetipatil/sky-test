@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message Items  Should render each message Item details 1`] = `
+<li>
+  <div
+    style={
+      Object {
+        "height": "150px",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "float": "left",
+          "height": "100px",
+        }
+      }
+    >
+      <img
+        alt=""
+        src="http://dummyimage.com/100x100.png/ff4444/ffffff"
+      />
+    </div>
+    <div>
+      <p>
+        DATE 
+        2/11/2017, 1:06:40 AM
+         
+      </p>
+      <p
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+      >
+        TXT 
+        Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+          
+      </p>
+      <span />
+    </div>
+  </div>
+</li>
+`;

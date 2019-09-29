@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page Test should match messageList snapshot correctly 1`] = `
+<MessageList
+  members={Array []}
+  messages={Array []}
+/>
+`;
+
+exports[`Home Page Test should renders correctly 1`] = `
+<MessageList
+  members={Array []}
+  messages={Array []}
+/>
+`;
+
+exports[`Home Page Test should renders messageList correctly 1`] = `
+<MessageList
+  members={Array []}
+  messages={Array []}
+/>
+`;
